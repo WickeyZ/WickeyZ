@@ -27,7 +27,8 @@
 <img align="left" width="50%" src="https://streak-stats.demolab.com?user=WickeyZ&theme=dark&date_format=j%20M%5B%20Y%5D&"/>
   
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
-<!-- img align="left" width="36%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api/top-langs/?username=wickeyc&hide=html,jupyter%20notebook&layout=compact&exclude_repo=readme-stats,ShopeeBannerAd,ShopeeBannerAdDisplay,A-Letter,topszecrettelegram,NewYearEve&theme=dark&custom_title=Languages"/>
+<!-- <img align="left" width="36%" src="https://readme-stats-one-gold.vercel.app/api/top-langs/?username=wickeyz&layout=compact&theme=dark&custom_title=Languages"/> -->
+<img align="left" width="36%" src="https://github-readme-stats-git-master-wickeyc.vercel.app/api/top-langs/?username=wickeyz&hide=html,css,jupyter%20notebook&layout=compact&exclude_repo=readme-stats,ShopeeBannerAd,ShopeeBannerAdDisplay,A-Letter,topszecrettelegram,NewYearEve&theme=dark&custom_title=Languages"/>
 </div>
 
 <sup><sup><sup>正在发育，请多指教</sup></sup></sup>
